@@ -1,0 +1,1 @@
+This is a translator that uses the camera to detect hand gestures. These hand gestures are then translated to their ASL semantics. It is interesting because the gestures don't neccesarily have to be ASL. You can run collect_data.py to record hand gestures. These will be mapped to specific alphabets.
